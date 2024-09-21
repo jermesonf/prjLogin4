@@ -1,5 +1,5 @@
 # Projeto Login 4
-Este projeto foi desenvolvido para aplicar conhecimentos em Android e integração com banco de dados. Ele possui duas funcionalidades principais:
+Este projeto foi desenvolvido para aplicar conhecimentos em Android e integração com banco de dados:
 
 - Salvar: Armazena os dados fornecidos nos campos de entrada.
 - Consultar: Exibe todos os dados armazenados.
